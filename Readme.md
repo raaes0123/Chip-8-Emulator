@@ -32,4 +32,4 @@ Make builds chip_8 executable which you can run.
 ./chip_8
 ```
 ## Demo
-![Chip-8 Demo gif](https://github.com/raaes0123/Chip-8-Emulator/tree/main/asset/Missile.gif)
+![Chip-8 Demo gif](https://github.com/raaes0123/Chip-8-Emulator/blob/main/asset/Missile.gif)
